@@ -1,5 +1,5 @@
 //試しに編集中
-
+//二回目の編集中
 
 function omikuji() {
     let randomNumber = Math.random();
